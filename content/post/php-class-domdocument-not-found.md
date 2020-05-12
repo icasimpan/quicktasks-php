@@ -1,6 +1,7 @@
 ---
 title: "PHP Class 'DOMDocument' not found"
 date: 2019-09-28T00:20:25+08:00
+tags: [php]
 draft: false
 ---
 Sample error
