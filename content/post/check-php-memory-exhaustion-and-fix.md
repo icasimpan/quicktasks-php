@@ -1,7 +1,7 @@
 ---
 title: "Checking for php memory exhaustion + possible fix"
 date: 2019-09-28T00:20:25+08:00
-tags: [php]
+tags: [php, memory, php-memory]
 draft: false
 ---
 
