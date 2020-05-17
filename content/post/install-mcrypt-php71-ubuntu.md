@@ -1,7 +1,7 @@
 ---
 title: "Installing mcrypt in php7.1 (Ubuntu)"
 date: 2019-09-28T00:20:25+08:00
-tags: [php]
+tags: [php, mcrypt, ubuntu, install, php-module]
 draft: false
 ---
 
