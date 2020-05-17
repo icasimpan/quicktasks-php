@@ -1,7 +1,7 @@
 ---
 title: "Create separate php log file"
 date: 2019-09-28T00:20:25+08:00
-tags: [php]
+tags: [php, log, php-log]
 draft: false
 ---
 
