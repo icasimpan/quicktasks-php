@@ -1,7 +1,7 @@
 ---
 title: "Unable to load dynamic library '/usr/lib/php5/20131226/curl.so'"
 date: 2019-09-28T00:20:25+08:00
-tags: [php]
+tags: [php. module, dynamic-library]
 draft: false
 ---
 
