@@ -1,7 +1,7 @@
 ---
 title: "PHP Fatal Error: Maximum Execution time exceeded"
 date: 2020-02-07T00:20:25+08:00
-tags: [php]
+tags: [php, php-error, fatal-error]
 draft: false
 ---
 
