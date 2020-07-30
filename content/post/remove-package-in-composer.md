@@ -1,7 +1,7 @@
 ---
 title: "Remove package in composer"
 date: 2020-07-31T00:20:25+08:00
-tags: [php, php-curl]
+tags: [php, composer]
 draft: false
 ---
 
